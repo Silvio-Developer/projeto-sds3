@@ -21,7 +21,7 @@ const Dashboard = () => {
             </div>
           </div>
           <div className="py-3">
-          <h2 className="text-primery">Todas as vendas</h2>
+          <h2 className="text-primary">Todas as vendas</h2>
           </div>
         </div>
         <DataTable />
